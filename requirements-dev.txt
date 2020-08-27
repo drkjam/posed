@@ -1,0 +1,7 @@
+-r requirements.txt
+check-manifest
+coverage>=5.2.1
+ipython
+pytest>=6.0.1
+pytest-cov>=2.10.1
+-e .
